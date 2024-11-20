@@ -52,6 +52,7 @@ const UserProvider = (props) => {
   );
 };
 
+
 //Validación de props
 UserProvider.propTypes = {
   children: PropTypes.node.isRequired,
